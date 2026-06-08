@@ -160,25 +160,17 @@ Add screenshots here after capturing the application UI.
 <!-- Screenshot placeholder: Strategy Backtest page -->
 <img width="1880" height="1002" alt="image" src="https://github.com/user-attachments/assets/0ff230ac-c55a-4587-89da-6141c027f014" />
 
-```text
-Place screenshot here.
-```
-
 ### Chart and Strategy Signals
 
 <!-- Screenshot placeholder: Chart with strategy markers -->
 <img width="1893" height="1028" alt="image" src="https://github.com/user-attachments/assets/10fdaac4-aaf0-4a12-95c1-454c09caf522" />
 <img width="613" height="358" alt="image" src="https://github.com/user-attachments/assets/eab4d58f-431c-4259-8c84-7ab9b744e225" />
 <img width="468" height="850" alt="image" src="https://github.com/user-attachments/assets/f7ca4a08-29f5-47e2-a149-3da87471cf58" />
-```text
-Place screenshot here.
-```
+
 
 ### Analysis Board / History Record
 
 <!-- Screenshot placeholder: Analysis board or history record UI -->
 <img width="1888" height="752" alt="image" src="https://github.com/user-attachments/assets/342c47c0-1f56-47fd-9dea-ebe6690f9518" />
-```text
-Place screenshot here.
-```
+
 
