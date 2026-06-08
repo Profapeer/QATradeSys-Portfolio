@@ -158,6 +158,7 @@ Add screenshots here after capturing the application UI.
 ### Strategy Backtest Workspace
 
 <!-- Screenshot placeholder: Strategy Backtest page -->
+<img width="1880" height="1002" alt="image" src="https://github.com/user-attachments/assets/0ff230ac-c55a-4587-89da-6141c027f014" />
 
 ```text
 Place screenshot here.
